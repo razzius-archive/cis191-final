@@ -1,4 +1,4 @@
-# Django settings for nofour project.
+# Django settings for django_server project.
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
@@ -83,7 +83,7 @@ STATICFILES_FINDERS = (
 )
 
 # Make this unique, and don't share it with anybody.
-SECRET_KEY = '*0bs%$lb3sl8l))sm=$q(svi(%sa2n68+se-*#$$i^tc)y5@$c'
+SECRET_KEY = '_i8fja)19qdm_!e+r^+@*^8u5kczlb(ye3z7x(a+f-&jbkj^a1'
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
@@ -102,10 +102,10 @@ MIDDLEWARE_CLASSES = (
     # 'django.middleware.clickjacking.XFrameOptionsMiddleware',
 )
 
-ROOT_URLCONF = 'nofour.urls'
+ROOT_URLCONF = 'django_server.urls'
 
 # Python dotted path to the WSGI application used by Django's runserver.
-WSGI_APPLICATION = 'nofour.wsgi.application'
+WSGI_APPLICATION = 'django_server.wsgi.application'
 
 TEMPLATE_DIRS = (
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
