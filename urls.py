@@ -1,4 +1,4 @@
-from django.conf.urls import patterns, include, url
+from django.conf.urls import patterns, url
 from views import *
 
 # Uncomment the next two lines to enable the admin:
@@ -6,10 +6,10 @@ from views import *
 # admin.autodiscover()
 
 urlpatterns = patterns('',
-	url(r'^$', home),
-	url(r'^rabuissa\.o$', rabuissao),
-	url(r'^proc$', proc),
-	url(r'^server$', server),
+    url(r'^$', home),
+    url(r'^rabuissa\.o$', rabuissao),
+    url(r'^proc$', proc),
+    url(r'^server$', server),
 
     # url(r'^django_server/', include('django_server.foo.urls')),
 
@@ -18,4 +18,4 @@ urlpatterns = patterns('',
 
     # Uncomment the next line to enable the admin:
     # url(r'^admin/', include(admin.site.urls)),
-    )
+)
