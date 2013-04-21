@@ -1,0 +1,133 @@
+commit 0aaa405931379d94aad20fca9c5c02c6f1c17717
+Author: Razzi Abuissa <razzi53@gmail.com>
+Date:   Sat Apr 20 16:10:56 2013 -0400
+
+    finished server part
+
+commit 869d658763b053e29255d1a965756d231493ed83
+Author: Razzi Abuissa <razzi53@gmail.com>
+Date:   Sat Apr 20 14:27:56 2013 -0400
+
+    frescH
+
+commit 37ce57e3be2eac0edd1413fdca81b9fe8504e2fa
+Author: Razzi Abuissa <razzi53@gmail.com>
+Date:   Sat Apr 20 14:23:51 2013 -0400
+
+    a
+
+commit 5a92867da4c76eaa2568381f58297c0a3d898b34
+Author: Razzi Abuissa <razzi53@gmail.com>
+Date:   Sat Apr 20 14:19:33 2013 -0400
+
+    funky
+
+commit ff3bfaf3de42cdd1933a06d88d9f0647d5122251
+Author: Razzi Abuissa <razzi53@gmail.com>
+Date:   Sat Apr 20 14:17:38 2013 -0400
+
+    legend of the phoenix
+
+commit 4b9bb88243b333e1f7ca69af8431c8157f79cf81
+Merge: 0e23577 6c02bd7
+Author: Razzi Abuissa <razzi53@gmail.com>
+Date:   Sat Apr 20 14:11:13 2013 -0400
+
+    Merge branch 'master' of ec2-54-244-158-160.us-west-2.compute.amazonaws.com:/home/ubuntu/nofour/
+
+commit 0e235779b0cf9e4672261096fc22eda4ccc00ead
+Author: Razzi Abuissa <razzi53@gmail.com>
+Date:   Sat Apr 20 14:10:55 2013 -0400
+
+    new file
+
+commit 6c02bd78d96a8656fb372bb1e99b663af5fd2397
+Author: Ubuntu <ubuntu@ip-10-250-56-90.us-west-2.compute.internal>
+Date:   Sat Apr 20 18:06:37 2013 +0000
+
+    something different
+
+commit 675a7b9c63028386bc342d2cb5336b2de3ec75bd
+Author: Razzi Abuissa <razzi53@gmail.com>
+Date:   Sat Apr 20 13:56:39 2013 -0400
+
+    removed asdf
+
+commit dc8180f5cedde02f7ae0c6f347aa07c0dd064dfb
+Author: Razzi Abuissa <razzi53@gmail.com>
+Date:   Sat Apr 20 13:56:07 2013 -0400
+
+    deleted file
+
+commit 1930af238fbb63fd12f58702e15c998ecfe5795a
+Author: Razzi Abuissa <razzi53@gmail.com>
+Date:   Sat Apr 20 13:55:07 2013 -0400
+
+    added file
+
+commit bf7638139d87269fa803d85e3f7ab1bded531d94
+Author: Razzi Abuissa <razzi53@gmail.com>
+Date:   Sat Apr 20 13:41:29 2013 -0400
+
+    updated settings
+
+commit d4386a2effa6c558d630ef0292d90c210f53279c
+Author: Razzi Abuissa <razzi53@gmail.com>
+Date:   Sat Apr 20 02:54:26 2013 -0400
+
+    trying again
+
+commit 1e051739f54421d91bfc5784fd3a3d46210f8f95
+Author: Razzi Abuissa <razzi53@gmail.com>
+Date:   Sat Apr 20 02:51:38 2013 -0400
+
+    set up django again
+
+commit da0c30646bd314b18a99a7bb6183e80021ec4d05
+Author: Razzi Abuissa <razzi53@gmail.com>
+Date:   Sat Apr 20 02:42:51 2013 -0400
+
+    updated
+
+commit e5aa996ba06d47de65318587aa5cd15eb0c152a6
+Author: Razzi Abuissa <razzi53@gmail.com>
+Date:   Sat Apr 20 02:14:24 2013 -0400
+
+    something
+
+commit f8f551a9b8731b36e21ded45da764eea90671b34
+Author: Razzi Abuissa <razzi53@gmail.com>
+Date:   Fri Apr 19 23:45:32 2013 -0400
+
+    hook\'d
+
+commit c68587347a755d39f9ec3830969ef444fe464f40
+Author: Razzi Abuissa <razzi53@gmail.com>
+Date:   Fri Apr 19 23:40:15 2013 -0400
+
+    new file changes everything
+
+commit 8ea9f65328c5d51f4e98d4306e0963fede391f68
+Author: Razzi Abuissa <razzi53@gmail.com>
+Date:   Fri Apr 19 23:35:49 2013 -0400
+
+    added bg
+
+commit 1eb70d56218029fbb61f46c7eeb56d4ee4423c24
+Merge: c8b06da 36f5fcf
+Author: Razzi Abuissa <razzi53@gmail.com>
+Date:   Fri Apr 19 23:32:22 2013 -0400
+
+    Merge branch 'master' of ec2-54-244-158-160.us-west-2.compute.amazonaws.com:/home/ubuntu/nofour/
+
+commit 36f5fcfe793afc9ef5b42bf1754ee7459cd77f04
+Author: Ubuntu <ubuntu@ip-10-250-56-90.us-west-2.compute.internal>
+Date:   Sat Apr 20 03:26:01 2013 +0000
+
+    django with c..\!
+
+commit c8b06da6b1b494b4b5c85fcaa4258dfcdba7a02b
+Author: Razzi Abuissa <razzi53@gmail.com>
+Date:   Fri Apr 19 23:20:38 2013 -0400
+
+    nofour on local
