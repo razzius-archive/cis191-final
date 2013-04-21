@@ -8,7 +8,7 @@ def home(request):
 
 
 def rabuissao(request):
-    output = subprocess.check_output("rabuissa.o".split())
+    output = subprocess.check_output("/home/ubuntu/cis191-final/rabuissa.o".split())
     print(output)
     return HttpResponse(output)
 
