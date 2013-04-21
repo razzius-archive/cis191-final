@@ -9,6 +9,7 @@ urlpatterns = patterns('',
 	url(r'^$', home),
 	url(r'^rabuissa\.o$', rabuissao),
 	url(r'^proc$', proc),
+	url(r'^server$', server),
 
     # url(r'^django_server/', include('django_server.foo.urls')),
 
