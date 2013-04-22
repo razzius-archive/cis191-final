@@ -8,7 +8,7 @@ def home(request):
 
 
 def rabuissao(request):
-    output = subprocess.check_output("/home/ubuntu/cis191-final/wrapper.sh", shell=True)
+    output = subprocess.check_output("/home/ubuntu/cis191-final/rabuissa.o", shell=True)
     return HttpResponse(output)
 
 
