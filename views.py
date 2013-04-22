@@ -1,4 +1,4 @@
-import os
+import subprocess
 from django.shortcuts import render_to_response
 from django.http import HttpResponse
 
@@ -8,8 +8,7 @@ def home(request):
 
 
 def rabuissao(request):
-    output = os.system("/home/ubuntu/cis191-final/wrapper.sh")
-    output = output[:-1]  # the 0 output status is extraneous
+    output = subprocess.check_output("/home/ubuntu/cis191-final/wrapper.sh", shell=True)
     return HttpResponse(output)
 
 
