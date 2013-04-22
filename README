@@ -2,6 +2,8 @@ I decided to try use the Django web framework to run rabuissa.o using the python
 
 Unfortunately, I was unable to get the .o file to run on the EC2 instance, so I just ended up using Django to serve up some gnarly css.
 
+UPDATE: I figured out that recompiling the .c file is necessary to deal with the different EC2 architecture, so I added that to my hook and everything works.
+
 The only link necessary is http://ec2-54-244-158-160.us-west-2.compute.amazonaws.com/ which is my ec2. Everything else is linked from there.
 
 Email me at razzi53 (gmail) if anything goes wrong.
