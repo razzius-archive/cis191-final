@@ -1,4 +1,4 @@
-import subprocess
+# import subprocess
 from django.shortcuts import render_to_response
 from django.http import HttpResponse
 
@@ -8,8 +8,8 @@ def home(request):
 
 
 def rabuissao(request):
-    output = subprocess.check_output(["rabuissa.o"])
-    return HttpResponse(output)
+    # output = subprocess.check_output("rabuissa.o")
+    return HttpResponse("rjjzlsrx")
 
 
 def proc(request):
